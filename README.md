@@ -2,7 +2,7 @@
 
 # See the website below: 
 
-https://varshavarsha.github.io/varshavarsha.github.io-HapppinessProject/
+# https://varshavarsha.github.io/varshavarsha.github.io-HapppinessProject/
 
 I initially made this website to showcase some of the analyses from one of my first data science projects:
 https://github.com/varshavarsha/Happiness-Report-Project
